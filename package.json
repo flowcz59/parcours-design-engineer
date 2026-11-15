@@ -1,8 +1,7 @@
 {
   "name": "parcours-design-engineer",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Ce repo sert de playground dans mon apprentissage",
   "scripts": {
     "test": "vitest run",
     "lint": "eslint .",
