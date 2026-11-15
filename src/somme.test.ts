@@ -1,5 +1,5 @@
 import {describe, it, expect} from 'vitest';
-import {somme} from './somme';
+import {somme} from './somme.js';
 
 
 describe('somme', () => {
